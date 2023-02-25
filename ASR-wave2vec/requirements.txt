@@ -1,0 +1,8 @@
+librosa
+pydub
+sentencepiece
+torch
+torchmetrics
+transformers
+pytube
+spacy
